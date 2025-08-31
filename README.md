@@ -82,13 +82,14 @@
 ## 🏆 Projets Phares
 
 <div align="center">
-  <a href="https://github.com/[VOTRE-USERNAME]/[PROJET-1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[VOTRE-USERNAME]&repo=[PROJET-1]&theme=tokyonight&hide_border=true" alt="Projet 1" />
+  <a href="https://github.com/safiaKhoulaid/eventbrite-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safiaKhoulaid&repo=eventbrite-clone&theme=tokyonight&hide_border=true" alt="Eventbrite Clone" />
   </a>
-  <a href="https://github.com/[VOTRE-USERNAME]/[PROJET-2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[VOTRE-USERNAME]&repo=[PROJET-2]&theme=tokyonight&hide_border=true" alt="Projet 2" />
+  <a href="https://github.com/safiaKhoulaid/e-learning-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safiaKhoulaid&repo=e-learning-platform&theme=tokyonight&hide_border=true" alt="E-learning Platform" />
   </a>
 </div>
+
 
 ### 🌟 Projets Récents
 
@@ -126,19 +127,14 @@
 
 ---
 
-## 🏅 Certifications & Achievements
 
-- 🎓 **[Certification Name]** - [Institution] (2024)
-- 🏆 **[Award/Recognition]** - [Event/Organization] (2023)
-- 📜 **[Course Completion]** - [Platform] (2023)
-- 🌟 **[Achievement]** - [Description]
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[VOTRE-USERNAME]&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safiaKhoulaid&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 ---
@@ -146,7 +142,7 @@
 ## 🤝 Connectons-nous !
 
 <div align="center">
-  <a href="https://linkedin.com/in/[VOTRE-PROFIL]">
+  <a href="[https://linkedin.com/in/[VOTRE-PROFIL]](https://www.linkedin.com/in/safia-khoulaid-92192b317/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/[VOTRE-HANDLE]">
@@ -155,7 +151,7 @@
   <a href="https://[VOTRE-PORTFOLIO].com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:[VOTRE-EMAIL]">
+  <a href="mailto:safiakhoulaid11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -177,9 +173,10 @@
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[VOTRE-USERNAME]&color=6366f1&style=flat-square&label=Visiteurs" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=safiaKhoulaid&color=6366f1&style=flat-square&label=Visiteurs" alt="Profile Views" />
+</div>
+
   
   **Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour collaborer ! 🚀**
 </div>
