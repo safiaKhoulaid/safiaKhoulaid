@@ -79,27 +79,7 @@
 
 ---
 
-## 🏆 Projets Phares
 
-<div align="center">
-  <a href="https://github.com/safiaKhoulaid/eventbrite-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safiaKhoulaid&repo=eventbrite-clone&theme=tokyonight&hide_border=true" alt="Eventbrite Clone" />
-  </a>
-  <a href="https://github.com/safiaKhoulaid/e-learning-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safiaKhoulaid&repo=e-learning-platform&theme=tokyonight&hide_border=true" alt="E-learning Platform" />
-  </a>
-</div>
-
-
-### 🌟 Projets Récents
-
-| Projet | Technologies | Description | Démo |
-|--------|-------------|-------------|------|
-| **[Nom du Projet 1]** | React, Node.js, MongoDB | Application web moderne avec authentification | [🔗 Voir](lien) |
-| **[Nom du Projet 2]** | Laravel, Vue.js, MySQL | Plateforme e-commerce complète | [🔗 Voir](lien) |
-| **[Nom du Projet 3]** | Next.js, TypeScript, Supabase | Dashboard analytique en temps réel | [🔗 Voir](lien) |
-
----
 
 ## 🎯 Compétences Détaillées
 
@@ -166,11 +146,7 @@
 
 ---
 
-## 🎵 Actuellement en train d'écouter
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
-</div>
 
 ---
 <div align="center">
