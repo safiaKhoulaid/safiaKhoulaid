@@ -14,12 +14,10 @@
 
 > **Développeuse Full-Stack passionnée** par la création d'expériences numériques exceptionnelles
 
-- 🔭 Actuellement en train de travailler sur **[Projet actuel]**
-- 🌱 J'apprends constamment **[Nouvelle technologie]**
+- 🔭 Actuellement en train d'étudier à **YOUCODE**
 - 👯 Je cherche à collaborer sur **des projets open source innovants**
 - 💬 Demandez-moi des conseils sur **le développement web moderne**
-- 📫 Comment me joindre: **[votre.email@example.com]**
-- ⚡ Fun fact: **[Quelque chose d'intéressant sur vous]**
+- 📫 Comment me joindre: **safiakhoulaid11@gmail.com**
 
 ---
 
@@ -34,7 +32,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
 </div>
 
 ### Backend
@@ -43,8 +40,6 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </div>
 
 ### Base de données
@@ -53,7 +48,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </div>
 
 ### Outils & Plateformes
@@ -72,15 +66,15 @@
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiaKhoulaid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[VOTRE-USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiaKhoulaid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[VOTRE-USERNAME]&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safiaKhoulaid&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
