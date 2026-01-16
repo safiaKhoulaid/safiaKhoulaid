@@ -1,164 +1,191 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+Je+suis+safia+khoulaid;D%C3%A9veloppeuse+Full-Stack;Passionn%C3%A9e+par+l'innovation" alt="Typing SVG" />
-</div>
 
+<!-- Header animé avec gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=Safia%20Khoulaid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Creating%20Digital%20Experiences&descAlignY=55&descSize=18"/>
 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Bienvenue+sur+mon+univers+digital;%F0%9F%9A%80+Transforming+ideas+into+code;%F0%9F%92%A1+Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safiaKhoulaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
-## 🚀 À propos de moi
-
-> **Développeuse Full-Stack passionnée** par la création d'expériences numériques exceptionnelles
-
-- 🔭 Actuellement en train d'étudier à **YOUCODE**
-- 👯 Je cherche à collaborer sur **des projets open source innovants**
-- 💬 Demandez-moi des conseils sur **le développement web moderne**
-- 📫 Comment me joindre: **safiakhoulaid11@gmail.com**
-
----
-
-## 🛠️ Stack Technique
-
-### Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-</div>
-
-### Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</div>
-
-### Base de données
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</div>
-
-### Outils & Plateformes
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiaKhoulaid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiaKhoulaid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safiaKhoulaid&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-
-
-## 🎯 Compétences Détaillées
-
-<div align="center">
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-90%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-80%25-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-75%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-85%25-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-80%25-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-75%25-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express-70%25-000000?style=flat-square&logo=express&logoColor=white)
-
-### Design & UX
-![Figma](https://img.shields.io/badge/Figma-85%25-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-70%25-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-90%25-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</div>
-
----
-
-
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safiaKhoulaid&theme=tokyonight" alt="Profile Summary" />
-</div>
-
----
-
-## 🤝 Connectons-nous !
-
-<div align="center">
-  <a href="[https://linkedin.com/in/[VOTRE-PROFIL]](https://www.linkedin.com/in/safia-khoulaid-92192b317/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[VOTRE-HANDLE]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://[VOTRE-PORTFOLIO].com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<!-- Badges sociaux animés -->
+<p>
+  <a href="https://www.linkedin.com/in/safia-khoulaid-92192b317/">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="mailto:safiakhoulaid11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=safiaKhoulaid&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+</p>
+
 </div>
 
 ---
 
-## 💡 Citation Inspirante
+<!-- Section À propos avec design moderne -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> À propos de moi
 
----
-
-
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=safiaKhoulaid&color=6366f1&style=flat-square&label=Visiteurs" alt="Profile Views" />
-</div>
-
+```typescript
+const safia = {
+  location: "Morocco 🇲🇦",
+  education: "YOUCODE - UM6P",
+  role: "Full-Stack Developer",
   
-  **Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour collaborer ! 🚀**
+  currentFocus: [
+    "Building scalable web applications",
+    "Exploring cloud technologies",
+    "Contributing to open source"
+  ],
+  
+  passions: ["Clean Code", "UI/UX", "Problem Solving"],
+  
+  funFact: "I debug with coffee ☕"
+};
+```
+
+<br clear="both"/>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
+
+<div align="center">
+
+<!-- Frontend Card -->
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&perline=4" />
+</p>
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java&perline=3" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ Database & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws&perline=3" />
+</p>
+
+</td>
+<td width="50%">
+
+### 🛠️ Tools & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&perline=3" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=safiaKhoulaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=a855f7&text_color=ffffff&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=safiaKhoulaid&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=a855f7&currStreakLabel=6366f1"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiaKhoulaid&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=safiaKhoulaid&bg_color=0D1117&color=6366f1&line=a855f7&point=ffffff&area=true&area_color=6366f1&hide_border=true"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=safiaKhoulaid&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5"/>
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░░  48.5%
+React        6 hrs 15 mins   █████░░░░░░░░░░░░░░░  24.2%
+PHP          4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░  16.8%
+CSS          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░   6.8%
+Other        58 mins         ░░░░░░░░░░░░░░░░░░░░   3.7%
+```<!--END_SECTION:waka-->
+
+---
+
+## 🎯 Current Goals for 2024
+
+<div align="center">
+
+| 🎯 Goal | 📊 Progress |
+|:--------|:-----------:|
+| Master Next.js 14 & Server Actions | ![](https://geps.dev/progress/75) |
+| Learn Docker & Kubernetes | ![](https://geps.dev/progress/45) |
+| Contribute to 5 Open Source Projects | ![](https://geps.dev/progress/60) |
+| Build a SaaS Product | ![](https://geps.dev/progress/30) |
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+### 💬 Let's Connect & Collaborate!
+
+<p>
+  <em>Je suis toujours ouverte aux nouvelles opportunités et collaborations.</em><br/>
+  <em>N'hésitez pas à me contacter !</em>
+</p>
+
+<a href="mailto:safiakhoulaid11@gmail.com">
+  <img src="https://img.shields.io/badge/Hire%20Me-Let's%20Talk!-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
+
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=120&section=footer"/>
